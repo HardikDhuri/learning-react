@@ -1,0 +1,29 @@
+{
+  "name": "leanring-react",
+  "version": "1.0.0",
+  "description": "This is my journey learning react framework as a comeplete beginner.",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HardikDhuri/learning-react.git"
+  },
+  "author": "Hardik Dhuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardikDhuri/learning-react/issues"
+  },
+  "homepage": "https://github.com/HardikDhuri/learning-react#readme",
+  "dependencies": {
+    "parcel": "^2.10.3",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.20.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
